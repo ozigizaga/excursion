@@ -13,6 +13,7 @@ body{
     font-family: Verdana;
     background-color: black;
     text-align: center;
+    margin: auto;
 }
 
 h3{
@@ -28,4 +29,8 @@ p{
 
 .footer{
     text-align: right;
+}
+
+img{
+    padding: 10px;
 }
